@@ -1,0 +1,41 @@
+<?xml version = "1.0" encoding = "UTF-8"?>
+<data>
+
+    <student>
+        <name>Keshav Varshney</name>
+        <rollno>19124034</rollno>
+        <semester>5</semester>
+        <branch>IT</branch>
+        <attendance>80</attendance>
+    </student>
+    
+    <student>
+        <name>Gagan Walia</name>
+        <rollno>19124024</rollno>
+        <semester>5</semester>
+        <branch>IT</branch>
+        <attendance>98</attendance>
+    </student>
+    
+    <student>
+        <name>Nitigya Jain</name>
+        <rollno>19104084</rollno>
+        <semester>5</semester>
+        <branch>CSE</branch>
+        <attendance>80</attendance>
+    </student>
+
+    <student>
+        <name>Sachin</name>
+        <rollno>19204587</rollno>
+        <semester>5</semester>
+        <branch>ECE</branch>
+        <attendance>87</attendance>
+    </student>
+
+
+
+
+
+
+</data>

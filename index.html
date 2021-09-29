@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="./app.css" />
+    <title>Student Info</title>
+  </head>
+  <body>
+    <header>
+      <nav>
+        <h1>Student Info</h1>
+      </nav>
+    </header>
+
+    <main>
+      <button class="show_data">Show Student Data</button>
+
+      <section class="data_header">
+        <p class="code_header">Color Codes for Attendance</p>
+        <div class="color_codes">
+          <div>
+            <p>&ge; 95%</p>
+            <button class="code code_1"></button>
+          </div>
+          <div>
+            <p>&ge; 85%</p>
+            <button class="code code_2"></button>
+          </div>
+          <div>
+            <p>&ge; 75%</p>
+            <button class="code code_3"></button>
+          </div>
+          <div>
+            <p>&lt; 75%</p>
+            <button class="code code_4"></button>
+          </div>
+        </div>
+      </section>
+
+      <section class="student_data"></section>
+    </main>
+
+    <script src="./app.js" />
+  </body>
+</html>
